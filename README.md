@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! This is WIP description. Stay tuned! 😊
 
 <!--
 **Macikolej/Macikolej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
