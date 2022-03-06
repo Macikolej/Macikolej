@@ -1,9 +1,5 @@
 ### Hi! This is WIP description. Stay tuned! 😊
 
-Quotes that keep me running:
-
-`"Do krwi ostatniej kropli z żył bronić będziemy ducha, aż się rozpadnie w proch i w pył krzyżacka zawierucha."`
-
 <!--
 **Macikolej/Macikolej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
