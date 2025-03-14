@@ -1,4 +1,10 @@
-### Hi! This is WIP description. Stay tuned! 😊
+## Hey there, I'm Maciej! 👋
+
+🎮 **Fullstack | Hardware Tinkerer | Game Dev | Tech Explorer**  
+🚀 Building cool stuff at **Pixel XL**  
+🛠️ Playing with code, gadgets and games
+
+💡 Always up for a challenge—let’s create something awesome!  
 
 <!--
 **Macikolej/Macikolej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
